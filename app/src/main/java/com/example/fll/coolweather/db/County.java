@@ -1,9 +1,11 @@
 package com.example.fll.coolweather.db;
 
+import org.litepal.crud.DataSupport;
+
 /**
  * Created by C515 on 2017/5/25.
  */
-public class County extends DataSupport{
+public class County extends DataSupport {
 
     private int id;
 
